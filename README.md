@@ -1,4 +1,4 @@
-# Attendance Management System (Java Console Application)
+# Attendance Management System - Java Console Application
 
 ## 📘 Overview
 This project is a **console-based Attendance Management System** built using Java.  
@@ -84,3 +84,4 @@ Export report in CSV/Excel format
 👩‍💻 Developer
 Kandi Naga Pavithra
 Electronics and Communication Engineering
+
